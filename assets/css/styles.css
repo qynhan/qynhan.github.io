@@ -228,7 +228,7 @@ a:hover {
   background: #f4f4f4 url(../images/Nicole-piano.png) top center;
   background-size: cover;
   color: #7C7C7C;
-  padding: 30px 0 35px 0;
+  padding: 30px 0 35px 0; 
 }
 #head img.img-circle {
   display: block;
@@ -803,4 +803,13 @@ footer.entry-meta .meta-in {
   display: flex; 
   align-items: center;  /*Aligns vertically center */
   justify-content: center; /*Aligns horizontally center */
+}
+p.Project-description{
+  text-align: center;
+}
+ul.Experience-list{
+  font-size:0.9rem;
+}
+ul.Eduation-list{
+  font-size:0.9rem;
 }

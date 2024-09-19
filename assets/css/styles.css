@@ -806,6 +806,8 @@ footer.entry-meta .meta-in {
 }
 p.Project-description{
   text-align: center;
+  display: block;
+  margin: 0.7rem;
 }
 ul.Experience-list{
   font-size:0.9rem;
